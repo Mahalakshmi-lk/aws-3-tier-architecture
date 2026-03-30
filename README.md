@@ -57,7 +57,6 @@ This project demonstrates the deployment of a scalable and secure 3-tier web arc
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### Application Load Balancer
 ![ALB](screenshots-alb.png)
