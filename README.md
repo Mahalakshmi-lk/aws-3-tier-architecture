@@ -96,4 +96,4 @@ Configured CloudFront for faster content delivery.
 ---
 
 ## 📄 Documentation
-(Add your PDF link here)
+[View Full Project Documentation](aws-3tier-project.pdf)
