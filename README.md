@@ -1,3 +1,9 @@
+# AWS 3-Tier Architecture Deployment 🚀
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Project](https://img.shields.io/badge/Project-3--Tier%20Architecture-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # aws-3-tier-architecture
 Deployed a scalable AWS 3-tier architecture using EC2, ALB, Auto Scaling, RDS, and CloudFront
 
