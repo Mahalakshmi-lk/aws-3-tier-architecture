@@ -57,7 +57,41 @@ This project demonstrates the deployment of a scalable and secure 3-tier web arc
 ---
 
 ## 📸 Screenshots
-(Add important screenshots here)
+## 📸 Screenshots
+
+### Application Load Balancer
+![ALB](screenshots/alb.png)
+Configured ALB to distribute incoming traffic across EC2 instances.
+
+---
+
+### EC2 Instances
+![EC2](screenshots/ec2.png)
+Deployed EC2 instances in private subnet for application layer.
+
+---
+
+### RDS Database
+![RDS](screenshots/rds.png)
+Configured MySQL RDS instance for database layer.
+
+---
+
+### EC2 to RDS Connection
+![EC2-RDS](screenshots/ec2-rds.png)
+Established secure connection between EC2 and RDS.
+
+---
+
+### CloudWatch Monitoring
+![CloudWatch](screenshots/cloudwatch.png)
+Created alarms for CPU utilization and monitoring.
+
+---
+
+### CloudFront CDN
+![CloudFront](screenshots/cloudfront.png)
+Configured CloudFront for faster content delivery.
 
 ---
 
