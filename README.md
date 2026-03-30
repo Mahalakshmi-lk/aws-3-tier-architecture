@@ -67,7 +67,7 @@ Configured ALB to distribute incoming traffic across EC2 instances.
 ---
 
 ### EC2 Instances
-![EC2](screenshots/ec2.png)
+![EC2](screenshots/ec2(2).png)
 Deployed EC2 instances in private subnet for application layer.
 
 ---
