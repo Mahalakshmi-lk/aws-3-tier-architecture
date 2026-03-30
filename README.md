@@ -52,7 +52,7 @@ This project demonstrates the deployment of a scalable and secure 3-tier web arc
 ---
 
 ## 🧩 Architecture Diagram
-(Add your diagram here)
+![Architecture](aws-architecture.jpeg)
 
 ---
 
