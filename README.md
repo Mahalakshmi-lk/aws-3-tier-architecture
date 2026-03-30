@@ -7,8 +7,6 @@
 # aws-3-tier-architecture
 Deployed a scalable AWS 3-tier architecture using EC2, ALB, Auto Scaling, RDS, and CloudFront
 
-# AWS 3-Tier Architecture Deployment 🚀
-
 ## 📌 Overview
 This project demonstrates the deployment of a scalable and secure 3-tier web architecture on AWS Free Tier. It includes a presentation layer, application layer, and database layer designed for high availability and performance.
 
